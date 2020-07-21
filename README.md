@@ -17,7 +17,7 @@ const debs = {
   tools: [React JS, React Native, Redux, Node, Styled-Components, Sequelize],
   architecture: ["mvc", "event-driven", "design system pattern"],
   challenge: "To develop my personal mobile app to help stray animals in need",
-  hobbies: [reading, cooking, german & korean learning, bike]
+  hobbies: ["reading", "cooking", "german & korean learning", "bike"]
 }
 ```
 
