@@ -1,7 +1,7 @@
 
 <h2> Hi, Debs here! <img src="https://media.giphy.com/media/Kxu2275kzosJC98kQg/giphy.gif" width="150"></h2>
 <img align='right' src="https://media.giphy.com/media/VEbNmD8OuAKnAO04Nw/giphy.gif" width="250">
-<p>I have a bachelor's degree in Computer Engineering at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, and currently, I'm <br>a Software Developer at <a href="https://www.samsung.com/br/">Samsung</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, <br>
+<p>I have a bachelor's degree in Computer Engineering at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, and currently, I'm a Software Developer at <a href="https://www.samsung.com/br/">Samsung</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">,
 and I love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giphy.gif" width="50">.
 </p>
 
