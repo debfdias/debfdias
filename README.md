@@ -1,8 +1,8 @@
 
 <h2> Hi, Debs here! <img src="https://media.giphy.com/media/Kxu2275kzosJC98kQg/giphy.gif" width="150"></h2>
 <img align='right' src="https://media.giphy.com/media/VEbNmD8OuAKnAO04Nw/giphy.gif" width="250">
-<p>I'm a Computer Enginner student at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, <br>a Software Developer at <a href="https://www.samsung.com/br/">Samsung</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, <br>
-and i love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giphy.gif" width="50">.
+<p>I have a bachelor degreen in Computer Enginner at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, and currently, I'm <br>a Software Developer at <a href="https://www.samsung.com/br/">Samsung</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, <br>
+and I love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giphy.gif" width="50">.
 </p>
 
 
@@ -13,7 +13,7 @@ and i love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giph
 ```javascript
 const debs = {
   pronouns: "she" | "her",
-  code: [Javascript, C, C++, Python, Java],
+  code: [Javascript, Typescript, C, C++, Python, Java],
   tools: [React JS, React Native, Redux, Node, Styled-Components, Sequelize],
   architecture: ["mvc", "event-driven", "design system pattern"],
   challenge: "To develop my personal mobile app to help stray animals in need",
