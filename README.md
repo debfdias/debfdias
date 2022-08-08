@@ -1,7 +1,7 @@
 
 <h2> Hi, Debs here! <img src="https://media.giphy.com/media/Kxu2275kzosJC98kQg/giphy.gif" width="150"></h2>
 <img align='right' src="https://media.giphy.com/media/VEbNmD8OuAKnAO04Nw/giphy.gif" width="250">
-<p>I have a bachelor's degree in Computer Engineering at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, and currently, I'm a Software Developer at <a href="https://www.samsung.com/br/">Samsung</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">,
+<p>I have a bachelor's degree in Computer Engineering at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, and currently, I'm a Software Developer at <a href="https://www.hp.com/">HP</a> and <a href="https://www.arctouch.com/">ArcTouch</a>!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">,
 and I love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giphy.gif" width="50">.
 </p>
 
@@ -13,8 +13,8 @@ and I love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giph
 ```javascript
 const debs = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, C, C++, Python, Java],
-  tools: [React JS, React Native, Redux, Node, Styled-Components, Sequelize],
+  code: [Javascript, Typescript, C, C++, Python, Ruby],
+  tools: [VS code, Docker, Insomnia, Serverless],
   architecture: ["mvc", "event-driven", "design system pattern"],
   challenge: "To develop my personal mobile app to help stray animals in need",
   hobbies: ["reading", "cooking", "german & korean learning", "bike"]
@@ -22,17 +22,18 @@ const debs = {
 ```
 
 <h3>⚡ Things I code with:</h3>
-<p> <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&color=black" /> 
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" /> 
-    <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> 
-    <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=white" />
-    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" /> 
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />  
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<p> 
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white" /> 
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> 
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />  
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <h3>👋 Where to find me:</h3>
