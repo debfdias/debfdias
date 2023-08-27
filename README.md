@@ -1,9 +1,14 @@
 
-<h2> Hi, Debs here! <img src="https://media.giphy.com/media/Kxu2275kzosJC98kQg/giphy.gif" width="150"></h2>
-<img align='right' src="https://media.giphy.com/media/VEbNmD8OuAKnAO04Nw/giphy.gif" width="250">
-<p>I have a bachelor's degree in Computer Engineering at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, and currently, I'm a Software Developer at <a href="https://www.hp.com/">HP</a> and <a href="https://www.arctouch.com/">ArcTouch</a>!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">,
-and I love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giphy.gif" width="50">.
-</p>
+
+<h1> Hi, Debs here! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwcHA3eDF5MXZ2eGMwdXRkYmlkZTd0NHB5bWFxbTAxeTUxMXVxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZXJyjHL784W4X6FsHw/giphy.gif" width="150"></h1>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV4cTduNGNhYTVkdzNia3M2NmdiNzRjY2Z2dXd4bzB5aXNkZGFrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="300">
+<p>Hello! I'm a senior Fullstack Developer with a passion for crafting exceptional web and mobile applications. I have a bachelor's degree in Computer Engineering at <a href="http://www.ufpe.br">University Federal of Pernambuco</a>, and currently I'm a software developer at <a href="https://www.hp.com/">Disney</a> and <a href="https://www.arctouch.com/">ArcTouch</a>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p>
+
+<p>With over 7 years of experience, I'm always excited to connect with fellow developers and collaborate on exciting projects. Feel free to explore my repositories and get in touch.</p>
+
+<b>Let's code the future together with cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giphy.gif" width="50"></b>
+
+
 
 
 
@@ -13,10 +18,9 @@ and I love cats! <img src="https://media.giphy.com/media/lRY8EdPwIbp9O16qTW/giph
 ```javascript
 const debs = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, C, C++, Python, Ruby],
-  tools: [VS code, Docker, Insomnia, Serverless],
-  architecture: ["mvc", "event-driven", "design system pattern"],
-  challenge: "To develop my personal mobile app to help stray animals in need",
+  languages: [Typescript, Javascript, C++, Python, Ruby],
+  databases: [ PostgreSQL, MongoDB, GraphQL ],
+  architectures: [ Serverless, Microservices, Monolithic ],
   hobbies: ["reading", "cooking", "german & korean learning", "bike"]
 }
 ```
@@ -36,7 +40,7 @@ const debs = {
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<h3>👋 Where to find me:</h3>
+<h3>👋  Where to find me:</h3>
 <p><a href="https://github.com/debfdias" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/debfdias" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </p>
 
