@@ -10,38 +10,51 @@
 
 
 
-
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const debs = {
-  pronouns: "she" | "her",
-  languages: [Typescript, Python, Go, C++],
-  databases: [ PostgreSQL, MongoDB, GraphQL ],
-  architectures: [ Serverless, Microservices, Monolithic ],
-  hobbies: ["reading", "cooking", "german & korean learning", "bike"]
-}
-```
+#### **Languages I Speak Fluently**
 
-<h3>⚡ Things I code with:</h3>
+| Language                                                                                                 | Description                                                                 |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Because life is too short for `undefined` errors.                           |
+| ![Python](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white)   | The Swiss Army knife of programming. 🐍                                     |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)               | Fast, efficient, and my go-to for microservices. 🏃‍♀️                       |
+| ![C#](https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=c-sharp&logoColor=white)        | For when I need to build something robust and enterprise-ready.             |
+
+
+####  Databases I’ve Danced With
+
+| Badge                                                                                                 | Description                                                                 |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | The relational database that never lets me down. 💃                         |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | For when I need to go NoSQL and flex my JSON muscles. 💪                    |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)     | Because caching is the secret sauce of performance. 🍔                      |
+
+
+####  DevOps & Cloud Tools 
+
+| Badge                                                                                                 | Description                                                                 |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)     | The cloud is my playground. ☁️                                              |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  | Shipping code in containers. 🚢          |
+| ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | Because Google knows how to scale. 🚀                                       |
+
+
+<h3>⚡ Other tools I code with:</h3>
 <p> 
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white" /> 
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> 
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />  
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" /> 
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /> 
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" /> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /> 
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e10098?style=flat&logo=graphql" />
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" /> 
+    <img alt="Nest" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white" /> 
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /> 
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
 </p>
 
 <h3>👋  Where to find me:</h3>
-<p><a href="https://github.com/debfdias" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/debfdias" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<p><a href="https://debs.dev" target="_blank"><img alt="Web" src="https://img.shields.io/badge/-Web-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff" /></a> <a href="https://github.com/debfdias" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/debfdias" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 </p>
 
 
